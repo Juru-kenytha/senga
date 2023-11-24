@@ -25,4 +25,9 @@ console.log(number);
 
 let numb = 6;
 numb = 2;
-console.log(numb)
+console.log(numb);
+
+
+
+let firstNmae = "Juru";
+console.log(firstNmae);
